@@ -2,18 +2,18 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated collection of **100 free, open-source softwares** worth keeping on every device and server: media centers, self-hosted services, personal AI, privacy tools, productivity apps and everyday utilities. Every entry links to the original, actively developed source code.
+A curated collection of **78 free, open-source softwares** worth keeping on every device and server: media centers, self-hosted services, personal AI, privacy tools, productivity apps and everyday utilities. Every entry links to the original, actively developed source code. Where several projects serve the same job, only the strongest one is listed.
 
 ## Contents
 
-- [🎬 Media & Entertainment](#-media--entertainment) (22)
-- [🎨 Creative & Editing](#-creative--editing) (11)
-- [🤖 Personal AI](#-personal-ai) (7)
-- [🗂 Productivity & Knowledge](#-productivity--knowledge) (19)
-- [🔐 Security & Privacy](#-security--privacy) (8)
-- [💾 Photos, Files & Personal Cloud](#-photos-files--personal-cloud) (10)
-- [📱 Devices & Sync](#-devices--sync) (4)
-- [🏠 Home & Lifestyle](#-home--lifestyle) (6)
+- [🎬 Media & Entertainment](#-media--entertainment) (17)
+- [🎨 Creative & Editing](#-creative--editing) (7)
+- [🤖 Personal AI](#-personal-ai) (3)
+- [🗂 Productivity & Knowledge](#-productivity--knowledge) (15)
+- [🔐 Security & Privacy](#-security--privacy) (7)
+- [💾 Photos, Files & Personal Cloud](#-photos-files--personal-cloud) (8)
+- [📱 Devices & Sync](#-devices--sync) (3)
+- [🏠 Home & Lifestyle](#-home--lifestyle) (5)
 - [🧭 Maps & Smart Home](#-maps--smart-home) (3)
 - [🌐 Internet, News & Downloads](#-internet-news--downloads) (8)
 - [💰 Finance & Data](#-finance--data) (2)
@@ -22,21 +22,16 @@ A curated collection of **100 free, open-source softwares** worth keeping on eve
 
 - [Jellyfin](https://github.com/jellyfin/jellyfin) - A self-hosted media server for your movies, shows and music, with web, TV and mobile clients. (License: GPL-2.0)
 - [Kodi](https://github.com/xbmc/xbmc) - Media center for your movies, shows, music and photos. (License: GPL-2.0)
-- [mpv](https://github.com/mpv-player/mpv) - A minimalist media player that plays virtually every video format. (License: GPL-2.0)
 - [VLC](https://github.com/videolan/vlc) - The media player that plays everything, on every platform. (License: GPL-2.0)
 - [Audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast streaming server. (License: GPL-3.0)
 - [AntennaPod](https://github.com/AntennaPod/AntennaPod) - Free podcast manager for Android: subscribe, download and listen offline. (License: GPL-3.0)
 - [Spotube](https://github.com/KRTirtho/spotube) - A lightweight music streaming client that plays YouTube tracks without ads. (License: AGPL-3.0)
 - [folia-major](https://github.com/chthollyphile/folia-major) - Multi-platform music player for local files, Navidrome and online sources, with animated lyrics. (License: AGPL-3.0)
 - [spotifast](https://github.com/crmne/spotifast) - A fast, native Spotify client in lightweight Rust. (License: MIT)
-- [Mornye](https://github.com/mornyeapp/Mornye) - A mobile music utility for high-quality audio management of your personal library. (License: LGPL-3.0)
-- [ArchiveTune](https://github.com/rukamori/ArchiveTune) - A music player for Android with local files and YouTube Music support. (License: GPL-3.0)
 - [LLPlayer](https://github.com/umlx5h/LLPlayer) - A media player built for language learning: dual subtitles, AI subtitles and real-time translation. (License: GPL-3.0)
 - [plezy](https://github.com/edde746/plezy) - A modern cross-platform media server client. (License: GPL-3.0)
 - [KOReader](https://github.com/koreader/koreader) - An e-book reader for your library: EPUB, PDF, MOBI, CBZ and more. (License: AGPL-3.0)
-- [Readest](https://github.com/readest/readest) - A modern e-book and audiobook reader for EPUB, PDF and more. (License: AGPL-3.0)
 - [Mihon](https://github.com/mihonapp/mihon) - A manga, comics and novels reader with a library, downloads and tracking. (License: Apache-2.0)
-- [Venera-Next](https://github.com/CyrilPeng/Venera-Next) - A cross-platform comic reader for local and online comic sources. (License: GPL-3.0)
 - [IPVIO-Stream](https://github.com/Emrodev/IPVIO-Stream) - A free, open-source IPTV player for Android TV. (License: GPL-3.0)
 - [Navidrome](https://github.com/navidrome/navidrome) - A lightweight self-hosted music streaming server. (License: GPL-3.0)
 - [Komga](https://github.com/gotson/komga) - A media server for comics, manga and magazines. (License: MIT)
@@ -45,13 +40,9 @@ A curated collection of **100 free, open-source softwares** worth keeping on eve
 
 ## 🎨 Creative & Editing
 
-- [OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative for video editing. (License: MIT)
-- [Concat](https://github.com/jub0t/Concat) - A truly free, local-first, cross-platform video editor, scriptable through an API. (License: AGPL-3.0)
 - [HyperFrames](https://github.com/heygen-com/hyperframes) - An AI video editor you can actually edit: describe any video and get a real, frame-level editable project. (License: Apache-2.0)
-- [FilmCraft](https://github.com/storytold/filmcraft) - An open-source nonlinear video editor written from scratch in pure Rust. (License: Apache-2.0)
 - [PhotoCraft](https://github.com/storytold/photocraft) - An open-source photo editor written from scratch in pure Rust. (License: Apache-2.0)
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) - A fully local voice studio: cloning, voice design and video dubbing, an open ElevenLabs alternative. (License: AGPL-3.0)
-- [FFmpegFreeUI](https://github.com/Lake1059/FFmpegFreeUI) - A friendly Windows front-end for FFmpeg: compress and convert video without the command line. (License: MIT)
 - [OBS Studio](https://github.com/obsproject/obs-studio) - The standard for live streaming and screen recording. (License: GPL-2.0)
 - [Audacity](https://github.com/audacity/audacity) - The classic open-source audio editor and recorder. (License: GPL-3.0)
 - [HandBrake](https://github.com/HandBrake/HandBrake) - The open-source video transcoder. (License: GPL-2.0)
@@ -60,11 +51,7 @@ A curated collection of **100 free, open-source softwares** worth keeping on eve
 ## 🤖 Personal AI
 
 - [nanobot](https://github.com/HKUDS/nanobot) - A lightweight, open-source personal AI agent. (License: MIT)
-- [QwenPaw](https://github.com/agentscope-ai/QwenPaw) - A personal AI assistant that deploys on your own machine or the cloud. (License: Apache-2.0)
-- [nanoclaw](https://github.com/nanocoai/nanoclaw) - Your own always-on AI assistant: self-hosted, lightweight, one container per agent. (License: MIT)
-- [odysseus](https://github.com/odysseus-dev/odysseus) - A self-hosted AI workspace. (License: AGPL-3.0)
 - [rikkahub](https://github.com/rikkahub/rikkahub) - An Android chat app for multiple LLM providers. (License: AGPL-3.0)
-- [kelivo](https://github.com/Chevey339/kelivo) - A Flutter LLM chat client for mobile and desktop. (License: AGPL-3.0)
 - [Mika](https://github.com/wangzan101/Mika) - An on-device AI agent for Android that operates apps and the web for you. (License: Apache-2.0)
 
 ## 🗂 Productivity & Knowledge
@@ -76,13 +63,9 @@ A curated collection of **100 free, open-source softwares** worth keeping on eve
 - [Reactive Resume](https://github.com/AmruthPillai/Reactive-Resume) - A free, open-source resume builder with ATS-friendly PDF export. (License: MIT)
 - [Wallabag](https://github.com/wallabag/wallabag) - A self-hosted read-it-later web application. (License: MIT)
 - [meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting notes, entirely on your own device. (License: MIT)
-- [kaneo](https://github.com/usekaneo/kaneo) - Project management that doesn't become the project: boards, Gantt charts and GitHub integration. (License: MIT)
 - [macro](https://github.com/macro-inc/macro) - A unified team workspace: email, chat, docs, tasks and calls in one place. (License: AGPL-3.0)
 - [PandaWiki](https://github.com/chaitin/PandaWiki) - An AI-powered knowledge base for product docs, FAQs and blogs. (License: AGPL-3.0)
-- [jotty](https://github.com/fccview/jotty) - Lightweight, file-based personal notes and checklists. (License: AGPL-3.0)
-- [zen](https://github.com/sheshbabu/zen) - A self-hosted notes app in a single Go binary, with full-text search. (License: AGPL-3.0)
 - [Analog](https://github.com/analogdotnow/Analog) - A fresh take on the calendar. (License: MIT)
-- [Yuvomi](https://github.com/ulsklyc/yuvomi) - A self-hosted family planner: tasks, calendar and budgets in one home. (License: MIT)
 - [pdfcraft](https://github.com/storytold/pdfcraft) - An open-source PDF reader and editor written from scratch in pure Rust. (License: Apache-2.0)
 - [bentopdf](https://github.com/alam00000/bentopdf) - A privacy-first PDF toolkit. (License: AGPL-3.0)
 - [Joplin](https://github.com/laurent22/joplin) - An open-source note-taking and to-do app with sync and end-to-end encryption. (License: AGPL-3.0)
@@ -97,7 +80,6 @@ A curated collection of **100 free, open-source softwares** worth keeping on eve
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX) - A KeePass password manager for Android. (License: GPL-3.0)
 - [Signal](https://github.com/signalapp/Signal-Android) - Private messaging with end-to-end encryption. (License: AGPL-3.0)
 - [Cryptomator](https://github.com/cryptomator/cryptomator) - Encrypt your cloud files, client-side. (License: GPL-3.0)
-- [dashbeam](https://github.com/tonyantony300/dashbeam) - Share files nearby and beyond. (License: AGPL-3.0)
 - [altersend](https://github.com/denislupookov/altersend) - Send files directly between devices over the internet, no cloud storage, no size limits. (License: Apache-2.0)
 
 ## 💾 Photos, Files & Personal Cloud
@@ -107,16 +89,13 @@ A curated collection of **100 free, open-source softwares** worth keeping on eve
 - [Material Files](https://github.com/zhanghai/MaterialFiles) - A Material Design file manager for Android. (License: GPL-3.0)
 - [Karakeep](https://github.com/karakeep-app/karakeep) - A self-hosted bookmark-everything app with AI tagging and full-text search. (License: AGPL-3.0)
 - [Palmr](https://github.com/kyantech/Palmr) - An open-source file-sharing platform focused on privacy and security. (License: Apache-2.0)
-- [Sync-in](https://github.com/Sync-in/server) - A sovereign platform for file storage, sharing, synchronization and collaboration. (License: AGPL-3.0)
 - [komi-store](https://github.com/komi-store/komi-store) - A free, open-source app store for GitHub, Codeberg and Forgejo releases. (License: Apache-2.0)
 - [Nextcloud](https://github.com/nextcloud/server) - The self-hosted productivity platform: files, calendar, contacts and more. (License: AGPL-3.0)
-- [PhotoPrism](https://github.com/photoprism/photoprism) - AI-powered photo management for your personal library. (License: AGPL-3.0)
 - [File Browser](https://github.com/filebrowser/filebrowser) - A web-based file manager for your server. (License: Apache-2.0)
 
 ## 📱 Devices & Sync
 
 - [Syncthing](https://github.com/syncthing/syncthing) - Continuous file sync between your devices, end-to-end encrypted, no cloud. (License: MPL-2.0)
-- [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android) - Continuous file sync for Android, end-to-end encrypted, no cloud account. (License: MPL-2.0)
 - [TwinDesk](https://github.com/InukaAsith/TwinDesk) - All your computers and your phone working as one desk: screens, apps, files and clipboard. (License: GPL-3.0)
 - [phonebox](https://github.com/ersinkoc/phonebox) - Turn an old Android phone into a customizable desk panel and touch control deck for your PC. (License: MIT)
 
@@ -125,7 +104,6 @@ A curated collection of **100 free, open-source softwares** worth keeping on eve
 - [Mealie](https://github.com/mealie-recipes/mealie) - A self-hosted recipe manager and meal planner. (License: AGPL-3.0)
 - [Grocy](https://github.com/grocy/grocy) - Web-based self-hosted groceries and household management. (License: MIT)
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - A Material Design weather app for Android. (License: LGPL-3.0)
-- [workout-cool](https://github.com/Snouzy/workout-cool) - A modern open-source fitness coaching platform: workout plans and progress tracking. (License: MIT)
 - [Echo-Loop](https://github.com/echo-loop/Echo-Loop) - An English listening trainer: intensive listening, shadowing and spaced review. (License: AGPL-3.0)
 - [FoodYou](https://github.com/maksimowiczm/FoodYou) - A free, privacy-focused food diary and nutrition tracker for Android. (License: GPL-3.0)
 
