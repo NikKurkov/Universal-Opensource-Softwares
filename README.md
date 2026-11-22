@@ -2,21 +2,23 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated collection of **78 free, open-source softwares** worth keeping on every device and server: media centers, self-hosted services, personal AI, privacy tools, productivity apps and everyday utilities. Every entry links to the original, actively developed source code. Where several projects serve the same job, only the strongest one is listed.
+A curated collection of **100 free, open-source softwares** worth keeping on every device and server: media centers, self-hosted services, personal AI, privacy tools, productivity apps and everyday utilities. Every entry links to the original, actively developed source code. Where several projects serve the same job, only the strongest one is listed.
 
 ## Contents
 
 - [🎬 Media & Entertainment](#-media--entertainment) (17)
-- [🎨 Creative & Editing](#-creative--editing) (7)
+- [🎨 Creative & Editing](#-creative--editing) (10)
 - [🤖 Personal AI](#-personal-ai) (3)
-- [🗂 Productivity & Knowledge](#-productivity--knowledge) (15)
+- [🗂 Productivity & Knowledge](#-productivity--knowledge) (16)
+- [💬 Communication & Social](#-communication--social) (6)
 - [🔐 Security & Privacy](#-security--privacy) (7)
 - [💾 Photos, Files & Personal Cloud](#-photos-files--personal-cloud) (8)
 - [📱 Devices & Sync](#-devices--sync) (3)
-- [🏠 Home & Lifestyle](#-home--lifestyle) (5)
+- [🏠 Home & Lifestyle](#-home--lifestyle) (8)
 - [🧭 Maps & Smart Home](#-maps--smart-home) (3)
-- [🌐 Internet, News & Downloads](#-internet-news--downloads) (8)
-- [💰 Finance & Data](#-finance--data) (2)
+- [🌐 Internet, News & Downloads](#-internet-news--downloads) (9)
+- [💰 Finance & Data](#-finance--data) (3)
+- [📡 Server & Infrastructure](#-server--infrastructure) (7)
 
 ## 🎬 Media & Entertainment
 
@@ -42,6 +44,9 @@ A curated collection of **78 free, open-source softwares** worth keeping on ever
 
 - [HyperFrames](https://github.com/heygen-com/hyperframes) - An AI video editor you can actually edit: describe any video and get a real, frame-level editable project. (License: Apache-2.0)
 - [PhotoCraft](https://github.com/storytold/photocraft) - An open-source photo editor written from scratch in pure Rust. (License: Apache-2.0)
+- [Krita](https://github.com/KDE/krita) - A professional open-source digital painting app for artists. (License: GPL-3.0)
+- [Blender](https://github.com/blender/blender) - The complete open-source 3D creation suite: modeling, animation, rendering and more. (License: GPL-2.0+)
+- [LMMS](https://github.com/LMMS/lmms) - Cross-platform music production software. (License: GPL-2.0)
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) - A fully local voice studio: cloning, voice design and video dubbing, an open ElevenLabs alternative. (License: AGPL-3.0)
 - [OBS Studio](https://github.com/obsproject/obs-studio) - The standard for live streaming and screen recording. (License: GPL-2.0)
 - [Audacity](https://github.com/audacity/audacity) - The classic open-source audio editor and recorder. (License: GPL-3.0)
@@ -63,6 +68,7 @@ A curated collection of **78 free, open-source softwares** worth keeping on ever
 - [Reactive Resume](https://github.com/AmruthPillai/Reactive-Resume) - A free, open-source resume builder with ATS-friendly PDF export. (License: MIT)
 - [Wallabag](https://github.com/wallabag/wallabag) - A self-hosted read-it-later web application. (License: MIT)
 - [meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting notes, entirely on your own device. (License: MIT)
+- [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Free, privacy-first automated time tracking, cross-platform. (License: MPL-2.0)
 - [macro](https://github.com/macro-inc/macro) - A unified team workspace: email, chat, docs, tasks and calls in one place. (License: AGPL-3.0)
 - [PandaWiki](https://github.com/chaitin/PandaWiki) - An AI-powered knowledge base for product docs, FAQs and blogs. (License: AGPL-3.0)
 - [Analog](https://github.com/analogdotnow/Analog) - A fresh take on the calendar. (License: MIT)
@@ -71,6 +77,15 @@ A curated collection of **78 free, open-source softwares** worth keeping on ever
 - [Joplin](https://github.com/laurent22/joplin) - An open-source note-taking and to-do app with sync and end-to-end encryption. (License: AGPL-3.0)
 - [Trilium Notes](https://github.com/TriliumNext/Trilium) - A hierarchical note-taking app for building large personal knowledge bases. (License: AGPL-3.0)
 - [draw.io](https://github.com/jgraph/drawio) - The diagramming tool for flowcharts, mockups and architecture diagrams. (License: Apache-2.0)
+
+## 💬 Communication & Social
+
+- [Thunderbird](https://github.com/thunderbird/thunderbird-android) - The open-source email app for Android, formerly K-9 Mail. (License: Apache-2.0)
+- [Jitsi Meet](https://github.com/jitsi/jitsi-meet) - Secure, simple and scalable video conferences you can self-host. (License: Apache-2.0)
+- [Synapse](https://github.com/element-hq/synapse) - The reference Matrix homeserver for self-hosted, federated chat. (License: AGPL-3.0)
+- [Mastodon](https://github.com/mastodon/mastodon) - Self-hosted, globally interconnected microblogging, the heart of the fediverse. (License: AGPL-3.0)
+- [PeerTube](https://github.com/Chocobozzz/PeerTube) - A federated video streaming platform using P2P directly in your web browser. (License: AGPL-3.0)
+- [Ghost](https://github.com/TryGhost/Ghost) - Independent publishing: memberships, subscriptions and newsletters. (License: MIT)
 
 ## 🔐 Security & Privacy
 
@@ -103,6 +118,9 @@ A curated collection of **78 free, open-source softwares** worth keeping on ever
 
 - [Mealie](https://github.com/mealie-recipes/mealie) - A self-hosted recipe manager and meal planner. (License: AGPL-3.0)
 - [Grocy](https://github.com/grocy/grocy) - Web-based self-hosted groceries and household management. (License: MIT)
+- [openGym](https://github.com/DuarteSantos8/openGym) - An open-source gym and body-weight tracker for iPhone, Apple Watch and Android. (License: AGPL-3.0)
+- [TREK](https://github.com/liketrek/TREK) - The most complete open-source travel planner: collaboration, bookings and budgets. (License: AGPL-3.0)
+- [Loop Habit Tracker](https://github.com/iSoron/uhabits) - A mobile app for building long-term positive habits. (License: GPL-3.0)
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - A Material Design weather app for Android. (License: LGPL-3.0)
 - [Echo-Loop](https://github.com/echo-loop/Echo-Loop) - An English listening trainer: intensive listening, shadowing and spaced review. (License: AGPL-3.0)
 - [FoodYou](https://github.com/maksimowiczm/FoodYou) - A free, privacy-focused food diary and nutrition tracker for Android. (License: GPL-3.0)
@@ -119,6 +137,7 @@ A curated collection of **78 free, open-source softwares** worth keeping on ever
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - A free BitTorrent client for desktop. (License: GPL-2.0)
 - [Dub](https://github.com/dubinc/dub) - Modern link management: short links, QR codes and analytics. (License: AGPL-3.0)
 - [VidBee](https://github.com/nexmoe/VidBee) - Download video and audio from 1000+ sites, with local transcription and summaries. (License: MIT)
+- [FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hosted RSS news aggregator. (License: AGPL-3.0)
 - [TrendRadar](https://github.com/sansan0/TrendRadar) - AI-driven trend and news monitor with multi-platform aggregation and RSS. (License: GPL-3.0)
 - [worldmonitor](https://github.com/koala73/worldmonitor) - A real-time global intelligence dashboard with AI-powered news aggregation. (License: AGPL-3.0)
 - [Pi-hole](https://github.com/pi-hole/pi-hole) - A network-wide ad blocker at the DNS level. (License: EUPL-1.2)
@@ -127,7 +146,18 @@ A curated collection of **78 free, open-source softwares** worth keeping on ever
 ## 💰 Finance & Data
 
 - [Actual](https://github.com/actualbudget/actual) - Local-first personal finance and budgeting. (License: MIT)
+- [Ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open-source wealth management and investment portfolio tracking. (License: AGPL-3.0)
 - [NocoDB](https://github.com/nocodb/nocodb) - A self-hosted Airtable alternative: databases as smart spreadsheets. (License: Sustainable Use License, AGPL-3.0-based)
+
+## 📡 Server & Infrastructure
+
+- [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - A free, self-hosted machine translation API, offline capable. (License: AGPL-3.0)
+- [mailcow](https://github.com/mailcow/mailcow-dockerized) - A full email server in Docker: SMTP, IMAP, webmail and admin in one. (License: GPL-3.0)
+- [ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop with a simple HTTP PUT. (License: Apache-2.0)
+- [Headscale](https://github.com/juanfont/headscale) - A self-hosted implementation of the Tailscale control server. (License: BSD-3-Clause)
+- [Backrest](https://github.com/garethgeorge/backrest) - A web UI and orchestrator for restic backups. (License: GPL-3.0)
+- [Umami](https://github.com/umami-software/umami) - A privacy-first web and product analytics platform you host yourself. (License: MIT)
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - Open-source self-hosted web archiving: save URLs, history and bookmarks. (License: MIT)
 
 ## Contributing
 
