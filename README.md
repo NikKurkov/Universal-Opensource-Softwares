@@ -2,30 +2,27 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated collection of **300 free, open-source softwares** worth keeping on every device and server: media centers, self-hosted services, personal AI, privacy tools, productivity apps and everyday utilities. Every entry links to the original, actively developed source code. Where several projects serve the same job, only the strongest one is listed.
+A curated collection of **100 free, open-source softwares** worth keeping on every device and server: media centers, self-hosted services, personal AI, privacy tools, productivity apps and everyday utilities. Every entry links to the original, actively developed source code. Where several projects serve the same job, only the strongest one is listed.
 
 ## Contents
 
-- [🎬 Media & Entertainment](#media--entertainment) (24)
-- [🎮 Games & Emulation](#games--emulation) (17)
-- [🎨 Creative & Editing](#creative--editing) (19)
-- [🤖 Personal AI](#personal-ai) (16)
-- [🗂 Productivity & Knowledge](#productivity--knowledge) (40)
-- [💬 Communication & Social](#communication--social) (16)
-- [🔐 Security & Privacy](#security--privacy) (15)
-- [💾 Photos, Files & Personal Cloud](#photos-files--personal-cloud) (15)
-- [📱 Devices & Sync](#devices--sync) (10)
-- [🏠 Home & Lifestyle](#home--lifestyle) (9)
-- [🧭 Maps & Smart Home](#maps--smart-home) (5)
-- [🌐 Internet, News & Downloads](#internet-news--downloads) (19)
-- [💰 Finance & Data](#finance--data) (5)
-- [🏢 Business & Work](#business--work) (8)
-- [📡 Server & Infrastructure](#server--infrastructure) (25)
-- [🛠 Developer Tools](#developer-tools) (55)
-
+- [🎬 Media & Entertainment](#-media--entertainment) (18)
+- [🎨 Creative & Editing](#-creative--editing) (10)
+- [🤖 Personal AI](#-personal-ai) (3)
+- [🗂 Productivity & Knowledge](#-productivity--knowledge) (16)
+- [💬 Communication & Social](#-communication--social) (6)
+- [🔐 Security & Privacy](#-security--privacy) (7)
+- [💾 Photos, Files & Personal Cloud](#-photos-files--personal-cloud) (8)
+- [📱 Devices & Sync](#-devices--sync) (3)
+- [🏠 Home & Lifestyle](#-home--lifestyle) (8)
+- [🧭 Maps & Smart Home](#-maps--smart-home) (3)
+- [🌐 Internet, News & Downloads](#-internet-news--downloads) (10)
+- [💰 Finance & Data](#-finance--data) (3)
+- [📡 Server & Infrastructure](#-server--infrastructure) (7)
 
 ## 🎬 Media & Entertainment
 
+- [Easy Effects](https://github.com/WWMM/easyeffects) - Audio effects like EQ for Linux apps. (License: GPL-3.0)
 - [Jellyfin](https://github.com/jellyfin/jellyfin) - A self-hosted media server for your movies, shows and music, with web, TV and mobile clients. (License: GPL-2.0)
 - [Kodi](https://github.com/xbmc/xbmc) - Media center for your movies, shows, music and photos. (License: GPL-2.0)
 - [VLC](https://github.com/videolan/vlc) - The media player that plays everything, on every platform. (License: GPL-2.0)
@@ -43,33 +40,6 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [Komga](https://github.com/gotson/komga) - A media server for comics, manga and magazines. (License: MIT)
 - [Invidious](https://github.com/iv-org/invidious) - An alternative front-end for YouTube. (License: AGPL-3.0)
 - [Peach](https://github.com/peach-mitao/peach) - A local-first video metadata scraper and media manager. (License: AGPL-3.0)
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Download videos from YouTube and 1000+ other sites. (License: Unlicense)
-- [Monkeytype](https://github.com/monkeytypegame/monkeytype) - Customizable typing practice site. (License: GPL-3.0)
-- [Mixxx](https://github.com/mixxxdj/mixxx) - DJ software with real mixing decks. (License: Custom)
-- [MuseScore](https://github.com/musescore/MuseScore) - Music notation software. (License: Custom)
-- [SRS](https://github.com/ossrs/srs) - Live streaming media server for RTMP and WebRTC. (License: MIT)
-- [Stellarium](https://github.com/Stellarium/stellarium) - Realistic sky and planetarium software. (License: GPL-2.0)
-- [Lidarr](https://github.com/Lidarr/Lidarr) - Music library automation, Sonarr for music. (License: GPL-3.0)
-
-## 🎮 Games & Emulation
-
-- [shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS. (License: GPL-2.0)
-- [Luanti](https://github.com/luanti-org/luanti) - Voxel sandbox game engine, formerly Minetest. (License: Custom)
-- [OpenRA](https://github.com/OpenRA/OpenRA) - Remake of classic RTS games like Red Alert. (License: GPL-3.0)
-- [Veloren](https://github.com/veloren/veloren) - Open-world multiplayer action RPG. (License: GPL-3.0)
-- [GDevelop](https://github.com/4ian/GDevelop) - Build 2D games without writing code. (License: Custom)
-- [Godot](https://github.com/godotengine/godot) - Full 2D and 3D game engine. (License: MIT)
-- [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) - Minecraft launcher with mod support. (License: GPL-3.0)
-- [Pterodactyl](https://github.com/pterodactyl/panel) - Game server management panel. (License: Custom)
-- [Playnite](https://github.com/JosefNemec/Playnite) - Unify all your game libraries in one launcher. (License: MIT)
-- [Lutris](https://github.com/lutris/lutris) - Open gaming platform for Linux. (License: GPL-3.0)
-- [Lichess](https://github.com/lichess-org/lila) - Free, adless online chess. (License: AGPL-3.0)
-- [Stockfish](https://github.com/official-stockfish/Stockfish) - The strongest open chess engine. (License: GPL-3.0)
-- [v86](https://github.com/copy/v86) - Run x86 operating systems in the browser. (License: BSD-2-Clause)
-- [RetroArch](https://github.com/libretro/RetroArch) - Front-end for retro game emulators. (License: GPL-3.0)
-- [PCSX2](https://github.com/pcsx2/pcsx2) - PlayStation 2 emulator. (License: GPL-3.0)
-- [Sunshine](https://github.com/LizardByte/Sunshine) - Stream your PC games to other devices. (License: GPL-3.0)
-- [RomM](https://github.com/rommapp/romm) - Self-hosted video game ROM library manager. (License: AGPL-3.0)
 
 ## 🎨 Creative & Editing
 
@@ -83,34 +53,12 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [Audacity](https://github.com/audacity/audacity) - The classic open-source audio editor and recorder. (License: GPL-3.0)
 - [HandBrake](https://github.com/HandBrake/HandBrake) - The open-source video transcoder. (License: GPL-2.0)
 - [Kdenlive](https://github.com/KDE/kdenlive) - A professional-grade open-source video editor from KDE. (License: GPL-3.0)
-- [Excalidraw](https://github.com/excalidraw/excalidraw) - Sketch hand-drawn style diagrams on a shared whiteboard. (License: MIT)
-- [Penpot](https://github.com/penpot/penpot) - Open design and prototyping tool, Figma alternative. (License: MPL-2.0)
-- [Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector and raster graphics editor. (License: Apache-2.0)
-- [ImageMagick](https://github.com/ImageMagick/ImageMagick) - Command-line image editing and conversion suite. (License: Custom)
-- [Gifski](https://github.com/sindresorhus/Gifski) - Convert videos to high-quality GIFs on Mac. (License: MIT)
-- [Xournal++](https://github.com/xournalpp/xournalpp) - Handwritten notes and PDF annotation. (License: GPL-2.0)
-- [PPT Master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real slide decks. (License: MIT)
-- [reveal.js](https://github.com/hakimel/reveal.js) - HTML presentation framework. (License: MIT)
-- [LanguageTool](https://github.com/languagetool-org/languagetool) - Grammar and style checker for 25+ languages. (License: LGPL-2.1)
 
 ## 🤖 Personal AI
 
 - [nanobot](https://github.com/HKUDS/nanobot) - A lightweight, open-source personal AI agent. (License: MIT)
 - [rikkahub](https://github.com/rikkahub/rikkahub) - An Android chat app for multiple LLM providers. (License: AGPL-3.0)
 - [Mika](https://github.com/wangzan101/Mika) - An on-device AI agent for Android that operates apps and the web for you. (License: Apache-2.0)
-- [Ollama](https://github.com/ollama/ollama) - Run large language models locally with one command. (License: MIT)
-- [Open WebUI](https://github.com/open-webui/open-webui) - Web UI for local and remote LLMs. (License: Custom)
-- [Dify](https://github.com/langgenius/dify) - Build AI apps and agent workflows visually. (License: Apache-2.0)
-- [New API](https://github.com/QuantumNous/new-api) - Self-hosted LLM API gateway and distribution. (License: AGPL-3.0)
-- [Rasa](https://github.com/RasaHQ/rasa) - Framework for building contextual chatbots. (License: Apache-2.0)
-- [Onyx](https://github.com/onyx-dot-app/onyx) - AI chat connected to your company knowledge. (License: Custom)
-- [Open Notebook](https://github.com/lfnovo/open-notebook) - Open-source NotebookLM alternative for research. (License: MIT)
-- [Qdrant](https://github.com/qdrant/qdrant) - Vector database for AI search. (License: Apache-2.0)
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Node-based UI for AI image generation. (License: GPL-3.0)
-- [Gradio](https://github.com/gradio-app/gradio) - Build and share machine learning demos in minutes. (License: Apache-2.0)
-- [Whisper](https://github.com/openai/whisper) - Speech recognition that works across languages. (License: MIT)
-- [Coqui TTS](https://github.com/coqui-ai/TTS) - Deep learning text-to-speech toolkit. (License: MPL-2.0)
-- [Khoj](https://github.com/khoj-ai/khoj) - AI second brain that searches your own notes. (License: AGPL-3.0)
 
 ## 🗂 Productivity & Knowledge
 
@@ -130,30 +78,6 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [Joplin](https://github.com/laurent22/joplin) - An open-source note-taking and to-do app with sync and end-to-end encryption. (License: AGPL-3.0)
 - [Trilium Notes](https://github.com/TriliumNext/Trilium) - A hierarchical note-taking app for building large personal knowledge bases. (License: AGPL-3.0)
 - [draw.io](https://github.com/jgraph/drawio) - The diagramming tool for flowcharts, mockups and architecture diagrams. (License: Apache-2.0)
-- [Outline](https://github.com/outline/outline) - Team wiki and knowledge base. (License: Custom)
-- [MarkText](https://github.com/marktext/marktext) - Simple desktop Markdown editor. (License: MIT)
-- [Etherpad](https://github.com/ether/etherpad) - Real-time collaborative text editor. (License: Apache-2.0)
-- [ONLYOFFICE](https://github.com/ONLYOFFICE/DesktopEditors) - Full office suite compatible with Word and Excel. (License: AGPL-3.0)
-- [GenOffice](https://github.com/genspark-ai/genoffice) - AI office suite with documents, sheets and slides. (License: Apache-2.0)
-- [Freeplane](https://github.com/freeplane/freeplane) - Mind mapping and knowledge management. (License: GPL-2.0)
-- [HeyForm](https://github.com/heyform/heyform) - Self-hosted form builder. (License: AGPL-3.0)
-- [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) - Label images, text and audio for machine learning. (License: MIT)
-- [Easydict](https://github.com/tisfeng/Easydict) - Dictionary and instant translation for macOS. (License: GPL-3.0)
-- [sc-im](https://github.com/andmarti1424/sc-im) - Spreadsheet for the terminal. (License: Custom)
-- [Qinglong](https://github.com/whyour/qinglong) - Scheduled task platform with a web UI. (License: Apache-2.0)
-- [Filee](https://github.com/KnifeLemon/Filee) - Offline file converter supporting 263 formats. (License: MIT)
-- [Universal Extractor 2](https://github.com/Bioruebe/UniExtract2) - Extract almost any installer or archive. (License: GPL-2.0)
-- [NAPS2](https://github.com/cyanfish/naps2) - Scan documents to PDF as simply as possible. (License: Custom)
-- [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - Make scanned PDFs searchable with OCR. (License: MPL-2.0)
-- [MinerU](https://github.com/opendatalab/MinerU) - Convert complex PDFs into clean Markdown. (License: Custom)
-- [Docsify](https://github.com/docsifyjs/docsify) - Zero-build documentation site generator. (License: MIT)
-- [CopyQ](https://github.com/hluk/CopyQ) - Advanced clipboard manager with history and search. (License: GPL-3.0)
-- [Cal.com](https://github.com/calcom/cal.diy) - Open scheduling app for appointments. (License: MIT)
-- [Fider](https://github.com/getfider/fider) - Collect and vote on ideas and feedback. (License: AGPL-3.0)
-- [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) - All-in-one self-hosted PDF toolbox. (License: MIT)
-- [Keila](https://github.com/pentacent/keila) - Self-hosted newsletter tool. (License: AGPL-3.0)
-- [pympress](https://github.com/Cimbali/pympress) - PDF presentation reader for dual screens. (License: GPL-2.0)
-- [NVDA](https://github.com/nvaccess/nvda) - Free screen reader for blind users. (License: Custom)
 
 ## 💬 Communication & Social
 
@@ -163,16 +87,6 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [Mastodon](https://github.com/mastodon/mastodon) - Self-hosted, globally interconnected microblogging, the heart of the fediverse. (License: AGPL-3.0)
 - [PeerTube](https://github.com/Chocobozzz/PeerTube) - A federated video streaming platform using P2P directly in your web browser. (License: AGPL-3.0)
 - [Ghost](https://github.com/TryGhost/Ghost) - Independent publishing: memberships, subscriptions and newsletters. (License: MIT)
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Team chat platform, Slack alternative. (License: Custom)
-- [Chaskiq](https://github.com/chaskiq/chaskiq) - Live chat and support widget for websites. (License: Custom)
-- [Answer](https://github.com/apache/answer) - Q&A platform for teams and communities. (License: Apache-2.0)
-- [Discourse](https://github.com/discourse/discourse) - Modern open forum software. (License: GPL-2.0)
-- [floccus](https://github.com/floccusaddon/floccus) - Sync browser bookmarks across devices and clouds. (License: MPL-2.0)
-- [Lemmy](https://github.com/LemmyNet/lemmy) - Fediverse link aggregator, Reddit alternative. (License: AGPL-3.0)
-- [Pixelfed](https://github.com/pixelfed/pixelfed) - Fediverse photo sharing network. (License: AGPL-3.0)
-- [Element](https://github.com/element-hq/element-web) - Web client for Matrix chat servers. (License: AGPL-3.0)
-- [Roundcube](https://github.com/roundcube/roundcubemail) - Browser-based webmail client. (License: GPL-3.0)
-- [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) - Web conferencing for online classes and meetings. (License: LGPL-3.0)
 
 ## 🔐 Security & Privacy
 
@@ -183,14 +97,6 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [Signal](https://github.com/signalapp/Signal-Android) - Private messaging with end-to-end encryption. (License: AGPL-3.0)
 - [Cryptomator](https://github.com/cryptomator/cryptomator) - Encrypt your cloud files, client-side. (License: GPL-3.0)
 - [altersend](https://github.com/denislupookov/altersend) - Send files directly between devices over the internet, no cloud storage, no size limits. (License: Apache-2.0)
-- [Portmaster](https://github.com/safing/portmaster) - Per-app network privacy firewall. (License: GPL-3.0)
-- [CrowdSec](https://github.com/crowdsecurity/crowdsec) - Collaborative intrusion prevention system. (License: MIT)
-- [SafeLine](https://github.com/chaitin/SafeLine) - Self-hosted web application firewall. (License: GPL-3.0)
-- [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption, TrueCrypt successor. (License: Custom)
-- [Nuclei](https://github.com/projectdiscovery/nuclei) - Fast vulnerability scanner. (License: MIT)
-- [Sherlock](https://github.com/sherlock-project/sherlock) - Find a username's accounts across social networks. (License: MIT)
-- [Algo](https://github.com/trailofbits/algo) - Spin up your personal VPN server in the cloud. (License: AGPL-3.0)
-- [v2rayNG](https://github.com/2dust/v2rayNG) - Android proxy client for V2Ray and Xray. (License: GPL-3.0)
 
 ## 💾 Photos, Files & Personal Cloud
 
@@ -202,26 +108,12 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [komi-store](https://github.com/komi-store/komi-store) - A free, open-source app store for GitHub, Codeberg and Forgejo releases. (License: Apache-2.0)
 - [Nextcloud](https://github.com/nextcloud/server) - The self-hosted productivity platform: files, calendar, contacts and more. (License: AGPL-3.0)
 - [File Browser](https://github.com/filebrowser/filebrowser) - A web-based file manager for your server. (License: Apache-2.0)
-- [Alist](https://github.com/AlistGo/alist) - Browse all your cloud storages in one place. (License: AGPL-3.0)
-- [MinIO](https://github.com/minio/minio) - S3-compatible object storage. (License: AGPL-3.0)
-- [Rclone](https://github.com/rclone/rclone) - Sync files across 70+ cloud providers. (License: MIT)
-- [Spacedrive](https://github.com/spacedriveapp/spacedrive) - Cross-platform file explorer with a unified library. (License: Apache-2.0)
-- [JuiceFS](https://github.com/juicedata/juicefs) - POSIX file system on top of object storage. (License: Apache-2.0)
-- [croc](https://github.com/schollz/croc) - Easily send files between computers. (License: MIT)
-- [Calibre](https://github.com/kovidgoyal/calibre) - E-book library management and conversion. (License: GPL-3.0)
 
 ## 📱 Devices & Sync
 
 - [Syncthing](https://github.com/syncthing/syncthing) - Continuous file sync between your devices, end-to-end encrypted, no cloud. (License: MPL-2.0)
 - [TwinDesk](https://github.com/InukaAsith/TwinDesk) - All your computers and your phone working as one desk: screens, apps, files and clipboard. (License: GPL-3.0)
 - [phonebox](https://github.com/ersinkoc/phonebox) - Turn an old Android phone into a customizable desk panel and touch control deck for your PC. (License: MIT)
-- [Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for smart plugs and bulbs. (License: GPL-3.0)
-- [OpenWrt](https://github.com/openwrt/openwrt) - Open-source router firmware. (License: Custom)
-- [Termux](https://github.com/termux/termux-app) - Linux terminal environment on Android. (License: Custom)
-- [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Network device scanner with notifications. (License: MIT)
-- [OpenLogi](https://github.com/AprilNEA/OpenLogi) - Local-first mouse and keyboard configuration. (License: Apache-2.0)
-- [Mole](https://github.com/tw93/Mole) - Open-source Mac and PC cleaner. (License: GPL-3.0)
-- [RustDesk](https://github.com/rustdesk/rustdesk) - Self-hosted remote desktop software. (License: AGPL-3.0)
 
 ## 🏠 Home & Lifestyle
 
@@ -233,18 +125,16 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - A Material Design weather app for Android. (License: LGPL-3.0)
 - [Echo-Loop](https://github.com/echo-loop/Echo-Loop) - An English listening trainer: intensive listening, shadowing and spaced review. (License: AGPL-3.0)
 - [FoodYou](https://github.com/maksimowiczm/FoodYou) - A free, privacy-focused food diary and nutrition tracker for Android. (License: GPL-3.0)
-- [Monica](https://github.com/monicahq/monica) - Personal relationship manager. (License: AGPL-3.0)
 
 ## 🧭 Maps & Smart Home
 
 - [Organic Maps](https://github.com/organicmaps/organicmaps) - Offline maps and navigation with OpenStreetMap data, turn-by-turn routing and offline search. (License: Apache-2.0)
 - [Home Assistant](https://github.com/home-assistant/core) - A self-hosted smart home automation platform. (License: Apache-2.0)
 - [Frigate](https://github.com/blakeblackshear/frigate) - AI-powered network video recorder for security cameras. (License: MIT)
-- [StreetComplete](https://github.com/streetcomplete/StreetComplete) - Improve OpenStreetMap by answering simple quests. (License: GPL-3.0)
-- [Traccar](https://github.com/traccar/traccar) - GPS vehicle tracking platform. (License: Apache-2.0)
 
 ## 🌐 Internet, News & Downloads
 
+- [Kubo](https://github.com/ipfs/kubo) - Run an IPFS node for the distributed web. (License: Apache-2.0)
 - [Mister Download Manager](https://github.com/anefzaoui/misterdownloadmanager) - A free, fast download manager for Windows, macOS and Linux, in 86 languages. (License: GPL-3.0)
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - A free BitTorrent client for desktop. (License: GPL-2.0)
 - [Dub](https://github.com/dubinc/dub) - Modern link management: short links, QR codes and analytics. (License: AGPL-3.0)
@@ -254,35 +144,12 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [worldmonitor](https://github.com/koala73/worldmonitor) - A real-time global intelligence dashboard with AI-powered news aggregation. (License: AGPL-3.0)
 - [Pi-hole](https://github.com/pi-hole/pi-hole) - A network-wide ad blocker at the DNS level. (License: EUPL-1.2)
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted uptime monitor. (License: MIT)
-- [SearXNG](https://github.com/searxng/searxng) - Private metasearch engine aggregating many engines. (License: AGPL-3.0)
-- [Ladybird](https://github.com/LadybirdBrowser/ladybird) - Independent web browser built from scratch. (License: BSD-2-Clause)
-- [frp](https://github.com/fatedier/frp) - Expose local servers behind NAT to the internet. (License: Apache-2.0)
-- [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Save complete webpages as single files. (License: AGPL-3.0)
-- [SmartDNS](https://github.com/pymumu/smartdns) - Fast local DNS resolver that picks the best IP. (License: GPL-3.0)
-- [changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Get notified when a website changes. (License: Apache-2.0)
-- [Shlink](https://github.com/shlinkio/shlink) - Self-hosted URL shortener with analytics. (License: MIT)
-- [aria2](https://github.com/aria2/aria2) - Lightweight multi-protocol download utility. (License: GPL-2.0)
-- [PrivateBin](https://github.com/PrivateBin/PrivateBin) - Minimal pastebin where the server cannot read pastes. (License: Custom)
-- [Jackett](https://github.com/Jackett/Jackett) - Proxy that unlocks torrent indexer APIs. (License: GPL-2.0)
 
 ## 💰 Finance & Data
 
 - [Actual](https://github.com/actualbudget/actual) - Local-first personal finance and budgeting. (License: MIT)
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open-source wealth management and investment portfolio tracking. (License: AGPL-3.0)
 - [NocoDB](https://github.com/nocodb/nocodb) - A self-hosted Airtable alternative: databases as smart spreadsheets. (License: Sustainable Use License, AGPL-3.0-based)
-- [Superset](https://github.com/apache/superset) - Modern data exploration and BI dashboards. (License: Apache-2.0)
-- [PostHog](https://github.com/PostHog/posthog) - Product analytics you can self-host. (License: Custom)
-
-## 🏢 Business & Work
-
-- [Twenty](https://github.com/twentyhq/twenty) - Modern open-source CRM. (License: AGPL-3.0)
-- [Kimai](https://github.com/kimai/kimai) - Time tracking for freelancers and teams. (License: AGPL-3.0)
-- [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - Invoicing, quotes and time tracking. (License: Custom)
-- [Akaunting](https://github.com/akaunting/akaunting) - Small-business accounting software. (License: Custom)
-- [Hyperswitch](https://github.com/juspay/hyperswitch) - Open payments switch, one integration for all cards. (License: Apache-2.0)
-- [Odoo](https://github.com/odoo/odoo) - Full ERP with sales, inventory, accounting and CRM. (License: GPL)
-- [Medusa](https://github.com/medusajs/medusa) - Headless commerce platform for custom storefronts. (License: MIT)
-- [pretix](https://github.com/pretix/pretix) - Event ticketing software you can self-host. (License: AGPL-3.0)
 
 ## 📡 Server & Infrastructure
 
@@ -293,87 +160,11 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [Backrest](https://github.com/garethgeorge/backrest) - A web UI and orchestrator for restic backups. (License: GPL-3.0)
 - [Umami](https://github.com/umami-software/umami) - A privacy-first web and product analytics platform you host yourself. (License: MIT)
 - [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - Open-source self-hosted web archiving: save URLs, history and bookmarks. (License: MIT)
-- [Kubernetes](https://github.com/kubernetes/kubernetes) - Production-grade container orchestration. (License: Apache-2.0)
-- [Portainer](https://github.com/portainer/portainer) - Manage Docker and Kubernetes with a web UI. (License: Zlib)
-- [1Panel](https://github.com/1Panel-dev/1Panel) - Modern Linux server control panel. (License: GPL-3.0)
-- [Coolify](https://github.com/coollabsio/coolify) - Self-hosted alternative to Vercel and Netlify. (License: Apache-2.0)
-- [Netdata](https://github.com/netdata/netdata) - Real-time server monitoring in one agent. (License: GPL-3.0)
-- [Prometheus](https://github.com/prometheus/prometheus) - Metrics collection and alerting system. (License: Apache-2.0)
-- [Grafana](https://github.com/grafana/grafana) - Dashboards and visualization for any data. (License: AGPL-3.0)
-- [SigNoz](https://github.com/SigNoz/signoz) - OpenTelemetry observability and APM. (License: Custom)
-- [Graylog](https://github.com/Graylog2/graylog2-server) - Centralized log management. (License: Custom)
-- [Sentry](https://github.com/getsentry/sentry) - Error tracking and performance monitoring. (License: Custom)
-- [Watchtower](https://github.com/containrrr/watchtower) - Automatically update running Docker containers. (License: Apache-2.0)
-- [Heimdall](https://github.com/linuxserver/Heimdall) - Dashboard linking all your self-hosted apps. (License: MIT)
-- [Firecracker](https://github.com/firecracker-microvm/firecracker) - Lightweight microVMs for serverless workloads. (License: Apache-2.0)
-- [OpenSearch](https://github.com/opensearch-project/OpenSearch) - Search and analytics engine, Elasticsearch fork. (License: Apache-2.0)
-- [Ansible](https://github.com/ansible/ansible) - Simple IT automation and configuration management. (License: GPL-3.0)
-- [ClickHouse](https://github.com/ClickHouse/ClickHouse) - Fast columnar database for analytics. (License: Apache-2.0)
-- [NetBox](https://github.com/netbox-community/netbox) - Source of truth for network infrastructure. (License: Apache-2.0)
-- [LibreNMS](https://github.com/LibreNMS/LibreNMS) - Network monitoring for routers, switches and servers. (License: Custom)
-
-## 🛠 Developer Tools
-
-- [VSCodium](https://github.com/VSCodium/vscodium) - VS Code without Microsoft telemetry. (License: MIT)
-- [code-server](https://github.com/coder/code-server) - VS Code running in the browser. (License: MIT)
-- [Tabby](https://github.com/TabbyML/tabby) - Self-hosted AI code completion. (License: Custom)
-- [Cline](https://github.com/cline/cline) - AI coding agent inside your IDE. (License: Apache-2.0)
-- [screenshot-to-code](https://github.com/abi/screenshot-to-code) - Turn a screenshot into working HTML and CSS. (License: MIT)
-- [Skyvern](https://github.com/Skyvern-AI/skyvern) - AI agents that drive the browser. (License: AGPL-3.0)
-- [Jina Reader](https://github.com/jina-ai/reader) - Turn any URL into clean text for LLMs. (License: Apache-2.0)
-- [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open API development ecosystem, Postman alternative. (License: MIT)
-- [Mockoon](https://github.com/mockoon/mockoon) - Mock REST APIs in seconds. (License: MIT)
-- [Playwright](https://github.com/microsoft/playwright) - End-to-end web testing and automation. (License: Apache-2.0)
-- [nvm](https://github.com/nvm-sh/nvm) - Node.js version manager. (License: MIT)
-- [vcpkg](https://github.com/microsoft/vcpkg) - C++ library manager for Windows, Linux and macOS. (License: MIT)
-- [WinGet](https://github.com/microsoft/winget-cli) - Official Windows package manager. (License: MIT)
-- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - Framework for managing Zsh configuration. (License: MIT)
-- [Ghostty](https://github.com/ghostty-org/ghostty) - Fast, feature-rich cross-platform terminal. (License: MIT)
-- [Warp](https://github.com/warpdotdev/warp) - Agentic terminal for developers. (License: AGPL-3.0)
-- [electerm](https://github.com/electerm/electerm) - Terminal, SSH, SFTP and serial client. (License: MIT)
-- [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web. (License: MIT)
-- [Gogs](https://github.com/gogs/gogs) - Painless self-hosted Git service. (License: MIT)
-- [Strapi](https://github.com/strapi/strapi) - Headless CMS built on Node.js. (License: Custom)
-- [Decap CMS](https://github.com/decaporg/decap-cms) - Git-based CMS for static site generators. (License: MIT)
-- [PocketBase](https://github.com/pocketbase/pocketbase) - Backend in one file with auth, database and files. (License: MIT)
-- [Supabase](https://github.com/supabase/supabase) - Open Firebase alternative built on Postgres. (License: Apache-2.0)
-- [dockur/windows](https://github.com/dockur/windows) - Run Windows inside a Docker container. (License: MIT)
-- [UTM](https://github.com/utmapp/UTM) - Virtual machines on macOS and iOS. (License: Apache-2.0)
-- [floci](https://github.com/floci-io/floci) - Local AWS emulator for testing. (License: MIT)
-- [acme.sh](https://github.com/acmesh-official/acme.sh) - Free TLS certificates from Let's Encrypt and more. (License: GPL-3.0)
-- [Hugo](https://github.com/gohugoio/hugo) - The world's fastest static site generator. (License: Apache-2.0)
-- [Neovim](https://github.com/neovim/neovim) - Vim fork focused on extensibility. (License: Custom)
-- [lazygit](https://github.com/jesseduffield/lazygit) - Terminal UI for git. (License: MIT)
-- [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder. (License: MIT)
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - Fast text search for code. (License: Unlicense)
-- [bat](https://github.com/sharkdp/bat) - cat clone with syntax highlighting. (License: Apache-2.0)
-- [eza](https://github.com/eza-community/eza) - Modern replacement for ls. (License: EUPL-1.2)
-- [zoxide](https://github.com/ajeetdsouza/zoxide) - Smarter cd command that learns your habits. (License: MIT)
-- [Starship](https://github.com/starship/starship) - Fast customizable shell prompt. (License: ISC)
-- [Atuin](https://github.com/ellie/atuin) - Sync and search your shell history. (License: MIT)
-- [tldr](https://github.com/tldr-pages/tldr) - Simplified community man pages. (License: Custom)
-- [just](https://github.com/casey/just) - Handy command runner for projects. (License: CC0-1.0)
-- [jq](https://github.com/jqlang/jq) - Lightweight JSON processor for the command line. (License: Custom)
-- [mosh](https://github.com/mobile-shell/mosh) - Remote terminal that survives roaming and sleep. (License: GPL-3.0)
-- [tmux](https://github.com/tmux/tmux) - Terminal multiplexer for windowed sessions. (License: ISC)
-- [Glances](https://github.com/nicolargo/glances) - Cross-platform system monitoring at a glance. (License: Custom)
-- [Mailpit](https://github.com/axllent/mailpit) - Email testing tool for developers. (License: MIT)
-- [Airflow](https://github.com/apache/airflow) - Author, schedule and monitor data pipelines. (License: Apache-2.0)
-- [Teleport](https://github.com/gravitational/teleport) - Unified access to SSH, Kubernetes and databases. (License: AGPL-3.0)
-- [SurrealDB](https://github.com/surrealdb/surrealdb) - Multi-model database with documents and graphs. (License: Custom)
-- [Meilisearch](https://github.com/meilisearch/meilisearch) - Instant search engine for apps. (License: MIT)
-- [Keycloak](https://github.com/keycloak/keycloak) - Enterprise SSO and identity management. (License: Apache-2.0)
-- [Docker Compose](https://github.com/docker/compose) - Define and run multi-container Docker apps. (License: Apache-2.0)
-- [Jenkins](https://github.com/jenkinsci/jenkins) - The automation server for building and deploying. (License: MIT)
-- [Argo CD](https://github.com/argoproj/argo-cd) - GitOps continuous delivery for Kubernetes. (License: Apache-2.0)
-- [Printrun](https://github.com/kliment/Printrun) - 3D printer control suite. (License: GPL-3.0)
-- [Worth Calculator](https://github.com/Zippland/worth-calculator) - Calculate what your job offer is really worth. (License: MIT)
-- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - Intercept and inspect HTTP traffic in the terminal. (License: MIT)
 
 ## Contributing
 
-Found a great open-source everyday app or self-hosted service that is missing? Open an issue or PR - repos must be genuinely open source, actively maintained, and solve a different problem than existing entries.
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
 ## License
 
-Distributed under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
+This list is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Each project keeps its own license.
