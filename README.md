@@ -20,7 +20,7 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [🌐 Internet, News & Downloads](#internet-news--downloads) (19)
 - [💰 Finance & Data](#finance--data) (5)
 - [🏢 Business & Work](#business--work) (9)
-- [📡 Server & Infrastructure](#server--infrastructure) (27)
+- [📡 Server & Infrastructure](#server--infrastructure) (28)
 - [🛠 Developer Tools](#developer-tools) (56)
 
 
@@ -284,6 +284,7 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 
 ## 📡 Server & Infrastructure
 
+- [LibreSpeed](https://github.com/librespeed/speedtest) - Self-hosted internet speed test. (License: LGPL-3.0)
 - [Healthchecks](https://github.com/healthchecks/healthchecks) - Cron job monitoring with dead-man's-switch alerts. (License: BSD-3-Clause)
 - [Nginx Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Web UI for managing reverse proxies with SSL. (License: MIT)
 - [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - A free, self-hosted machine translation API, offline capable. (License: AGPL-3.0)
