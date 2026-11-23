@@ -153,7 +153,7 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) - All-in-one self-hosted PDF toolbox. (License: MIT)
 - [Keila](https://github.com/pentacent/keila) - Self-hosted newsletter tool. (License: AGPL-3.0)
 - [pympress](https://github.com/Cimbali/pympress) - PDF presentation reader for dual screens. (License: GPL-2.0)
-- [NVDA](https://github.com/nvaccess/nvda) - Free screen reader for blind users. (License: Custom)
+- [NVDA](https://github.com/nvaccess/nvda) - Free screen reader for blind users. (License: LGPL-2.1)
 
 ## 💬 Communication & Social
 
@@ -184,7 +184,7 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [Portmaster](https://github.com/safing/portmaster) - Per-app network privacy firewall. (License: GPL-3.0)
 - [CrowdSec](https://github.com/crowdsecurity/crowdsec) - Collaborative intrusion prevention system. (License: MIT)
 - [SafeLine](https://github.com/chaitin/SafeLine) - Self-hosted web application firewall. (License: GPL-3.0)
-- [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption, TrueCrypt successor. (License: Custom)
+- [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption, TrueCrypt successor. (License: Apache-2.0)
 - [Nuclei](https://github.com/projectdiscovery/nuclei) - Fast vulnerability scanner. (License: MIT)
 - [Sherlock](https://github.com/sherlock-project/sherlock) - Find a username's accounts across social networks. (License: MIT)
 - [Algo](https://github.com/trailofbits/algo) - Spin up your personal VPN server in the cloud. (License: AGPL-3.0)
@@ -214,7 +214,7 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [phonebox](https://github.com/ersinkoc/phonebox) - Turn an old Android phone into a customizable desk panel and touch control deck for your PC. (License: MIT)
 - [Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for smart plugs and bulbs. (License: GPL-3.0)
 - [OpenWrt](https://github.com/openwrt/openwrt) - Open-source router firmware. (License: GPL-2.0)
-- [Termux](https://github.com/termux/termux-app) - Linux terminal environment on Android. (License: Custom)
+- [Termux](https://github.com/termux/termux-app) - Linux terminal environment on Android. (License: GPL-3.0)
 - [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Network device scanner with notifications. (License: MIT)
 - [OpenLogi](https://github.com/AprilNEA/OpenLogi) - Local-first mouse and keyboard configuration. (License: Apache-2.0)
 - [Mole](https://github.com/tw93/Mole) - Open-source Mac and PC cleaner. (License: GPL-3.0)
