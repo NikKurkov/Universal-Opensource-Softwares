@@ -7,21 +7,21 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 ## Contents
 
 - [🎬 Media & Entertainment](#media--entertainment) (25)
-- [🎮 Games & Emulation](#games--emulation) (17)
-- [🎨 Creative & Editing](#creative--editing) (19)
+- [🎮 Games & Emulation](#games--emulation) (15)
+- [🎨 Creative & Editing](#creative--editing) (21)
 - [🤖 Personal AI](#personal-ai) (16)
-- [🗂 Productivity & Knowledge](#productivity--knowledge) (40)
-- [💬 Communication & Social](#communication--social) (16)
-- [🔐 Security & Privacy](#security--privacy) (15)
+- [🗂 Productivity & Knowledge](#productivity--knowledge) (39)
+- [💬 Communication & Social](#communication--social) (15)
+- [🔐 Security & Privacy](#security--privacy) (14)
 - [💾 Photos, Files & Personal Cloud](#photos-files--personal-cloud) (15)
-- [📱 Devices & Sync](#devices--sync) (10)
+- [📱 Devices & Sync](#devices--sync) (9)
 - [🏠 Home & Lifestyle](#home--lifestyle) (9)
 - [🧭 Maps & Smart Home](#maps--smart-home) (5)
-- [🌐 Internet, News & Downloads](#internet-news--downloads) (20)
+- [🌐 Internet, News & Downloads](#internet-news--downloads) (19)
 - [💰 Finance & Data](#finance--data) (5)
-- [🏢 Business & Work](#business--work) (8)
-- [📡 Server & Infrastructure](#server--infrastructure) (25)
-- [🛠 Developer Tools](#developer-tools) (55)
+- [🏢 Business & Work](#business--work) (9)
+- [📡 Server & Infrastructure](#server--infrastructure) (27)
+- [🛠 Developer Tools](#developer-tools) (56)
 
 
 ## 🎬 Media & Entertainment
@@ -58,12 +58,10 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [Luanti](https://github.com/luanti-org/luanti) - Voxel sandbox game engine, formerly Minetest. (License: Custom)
 - [OpenRA](https://github.com/OpenRA/OpenRA) - Remake of classic RTS games like Red Alert. (License: GPL-3.0)
 - [Veloren](https://github.com/veloren/veloren) - Open-world multiplayer action RPG. (License: GPL-3.0)
-- [GDevelop](https://github.com/4ian/GDevelop) - Build 2D games without writing code. (License: Custom)
 - [Godot](https://github.com/godotengine/godot) - Full 2D and 3D game engine. (License: MIT)
 - [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) - Minecraft launcher with mod support. (License: GPL-3.0)
 - [Pterodactyl](https://github.com/pterodactyl/panel) - Game server management panel. (License: Custom)
 - [Playnite](https://github.com/JosefNemec/Playnite) - Unify all your game libraries in one launcher. (License: MIT)
-- [Lutris](https://github.com/lutris/lutris) - Open gaming platform for Linux. (License: GPL-3.0)
 - [Lichess](https://github.com/lichess-org/lila) - Free, adless online chess. (License: AGPL-3.0)
 - [Stockfish](https://github.com/official-stockfish/Stockfish) - The strongest open chess engine. (License: GPL-3.0)
 - [v86](https://github.com/copy/v86) - Run x86 operating systems in the browser. (License: BSD-2-Clause)
@@ -74,6 +72,8 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 
 ## 🎨 Creative & Editing
 
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD) - Parametric 3D CAD modeler. (License: LGPL-2.1)
+- [Flameshot](https://github.com/flameshot-org/flameshot) - Screenshot tool with on-screen annotation. (License: GPL-3.0)
 - [HyperFrames](https://github.com/heygen-com/hyperframes) - An AI video editor you can actually edit: describe any video and get a real, frame-level editable project. (License: Apache-2.0)
 - [PhotoCraft](https://github.com/storytold/photocraft) - An open-source photo editor written from scratch in pure Rust. (License: Apache-2.0)
 - [Krita](https://github.com/KDE/krita) - A professional open-source digital painting app for artists. (License: GPL-3.0)
@@ -127,7 +127,6 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [PandaWiki](https://github.com/chaitin/PandaWiki) - An AI-powered knowledge base for product docs, FAQs and blogs. (License: AGPL-3.0)
 - [Analog](https://github.com/analogdotnow/Analog) - A fresh take on the calendar. (License: MIT)
 - [pdfcraft](https://github.com/storytold/pdfcraft) - An open-source PDF reader and editor written from scratch in pure Rust. (License: Apache-2.0)
-- [bentopdf](https://github.com/alam00000/bentopdf) - A privacy-first PDF toolkit. (License: AGPL-3.0)
 - [Joplin](https://github.com/laurent22/joplin) - An open-source note-taking and to-do app with sync and end-to-end encryption. (License: AGPL-3.0)
 - [Trilium Notes](https://github.com/TriliumNext/Trilium) - A hierarchical note-taking app for building large personal knowledge bases. (License: AGPL-3.0)
 - [draw.io](https://github.com/jgraph/drawio) - The diagramming tool for flowcharts, mockups and architecture diagrams. (License: Apache-2.0)
@@ -173,7 +172,6 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [Pixelfed](https://github.com/pixelfed/pixelfed) - Fediverse photo sharing network. (License: AGPL-3.0)
 - [Element](https://github.com/element-hq/element-web) - Web client for Matrix chat servers. (License: AGPL-3.0)
 - [Roundcube](https://github.com/roundcube/roundcubemail) - Browser-based webmail client. (License: GPL-3.0)
-- [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) - Web conferencing for online classes and meetings. (License: LGPL-3.0)
 
 ## 🔐 Security & Privacy
 
@@ -183,7 +181,6 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX) - A KeePass password manager for Android. (License: GPL-3.0)
 - [Signal](https://github.com/signalapp/Signal-Android) - Private messaging with end-to-end encryption. (License: AGPL-3.0)
 - [Cryptomator](https://github.com/cryptomator/cryptomator) - Encrypt your cloud files, client-side. (License: GPL-3.0)
-- [altersend](https://github.com/denislupookov/altersend) - Send files directly between devices over the internet, no cloud storage, no size limits. (License: Apache-2.0)
 - [Portmaster](https://github.com/safing/portmaster) - Per-app network privacy firewall. (License: GPL-3.0)
 - [CrowdSec](https://github.com/crowdsecurity/crowdsec) - Collaborative intrusion prevention system. (License: MIT)
 - [SafeLine](https://github.com/chaitin/SafeLine) - Self-hosted web application firewall. (License: GPL-3.0)
@@ -214,7 +211,6 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 ## 📱 Devices & Sync
 
 - [Syncthing](https://github.com/syncthing/syncthing) - Continuous file sync between your devices, end-to-end encrypted, no cloud. (License: MPL-2.0)
-- [TwinDesk](https://github.com/InukaAsith/TwinDesk) - All your computers and your phone working as one desk: screens, apps, files and clipboard. (License: GPL-3.0)
 - [phonebox](https://github.com/ersinkoc/phonebox) - Turn an old Android phone into a customizable desk panel and touch control deck for your PC. (License: MIT)
 - [Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for smart plugs and bulbs. (License: GPL-3.0)
 - [OpenWrt](https://github.com/openwrt/openwrt) - Open-source router firmware. (License: Custom)
@@ -262,7 +258,6 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Save complete webpages as single files. (License: AGPL-3.0)
 - [SmartDNS](https://github.com/pymumu/smartdns) - Fast local DNS resolver that picks the best IP. (License: GPL-3.0)
 - [changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Get notified when a website changes. (License: Apache-2.0)
-- [Shlink](https://github.com/shlinkio/shlink) - Self-hosted URL shortener with analytics. (License: MIT)
 - [aria2](https://github.com/aria2/aria2) - Lightweight multi-protocol download utility. (License: GPL-2.0)
 - [PrivateBin](https://github.com/PrivateBin/PrivateBin) - Minimal pastebin where the server cannot read pastes. (License: Custom)
 - [Jackett](https://github.com/Jackett/Jackett) - Proxy that unlocks torrent indexer APIs. (License: GPL-2.0)
@@ -277,6 +272,7 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 
 ## 🏢 Business & Work
 
+- [DocuSeal](https://github.com/docusealco/docuseal) - Open-source DocuSign alternative for e-signatures. (License: AGPL-3.0)
 - [Twenty](https://github.com/twentyhq/twenty) - Modern open-source CRM. (License: AGPL-3.0)
 - [Kimai](https://github.com/kimai/kimai) - Time tracking for freelancers and teams. (License: AGPL-3.0)
 - [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - Invoicing, quotes and time tracking. (License: Custom)
@@ -288,6 +284,8 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 
 ## 📡 Server & Infrastructure
 
+- [Healthchecks](https://github.com/healthchecks/healthchecks) - Cron job monitoring with dead-man's-switch alerts. (License: BSD-3-Clause)
+- [Nginx Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Web UI for managing reverse proxies with SSL. (License: MIT)
 - [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - A free, self-hosted machine translation API, offline capable. (License: AGPL-3.0)
 - [mailcow](https://github.com/mailcow/mailcow-dockerized) - A full email server in Docker: SMTP, IMAP, webmail and admin in one. (License: GPL-3.0)
 - [ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop with a simple HTTP PUT. (License: Apache-2.0)
@@ -316,6 +314,8 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 
 ## 🛠 Developer Tools
 
+- [gdu](https://github.com/dundee/gdu) - Fast terminal disk usage analyzer. (License: MIT)
+- [DBeaver](https://github.com/dbeaver/dbeaver) - Universal database client and SQL tool. (License: Apache-2.0)
 - [VSCodium](https://github.com/VSCodium/vscodium) - VS Code without Microsoft telemetry. (License: MIT)
 - [code-server](https://github.com/coder/code-server) - VS Code running in the browser. (License: MIT)
 - [Tabby](https://github.com/TabbyML/tabby) - Self-hosted AI code completion. (License: Custom)
@@ -358,7 +358,6 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [jq](https://github.com/jqlang/jq) - Lightweight JSON processor for the command line. (License: Custom)
 - [mosh](https://github.com/mobile-shell/mosh) - Remote terminal that survives roaming and sleep. (License: GPL-3.0)
 - [tmux](https://github.com/tmux/tmux) - Terminal multiplexer for windowed sessions. (License: ISC)
-- [Glances](https://github.com/nicolargo/glances) - Cross-platform system monitoring at a glance. (License: Custom)
 - [Mailpit](https://github.com/axllent/mailpit) - Email testing tool for developers. (License: MIT)
 - [Airflow](https://github.com/apache/airflow) - Author, schedule and monitor data pipelines. (License: Apache-2.0)
 - [Teleport](https://github.com/gravitational/teleport) - Unified access to SSH, Kubernetes and databases. (License: AGPL-3.0)
